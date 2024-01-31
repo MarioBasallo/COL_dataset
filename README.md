@@ -11,8 +11,11 @@ Content of the text files: Contain the different test instances for the COL data
 <q>	Number of capacity levels
 
 <w[1][1]> <w[1][2]> ... <w[1][n]>    Haversine distance (divided by 2000) from node 1 to all others
+
 : : :
+
 : : :
+
 <w[n][1]> <w[n][2]> ... <w[n][n]>    Haversine distance (divided by 2000) from node 1 to all others
 
 <w[1][1]> <w[1][2]> ... <w[1][n]>    Flow from node 1 to all others
