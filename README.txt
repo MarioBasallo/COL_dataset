@@ -29,7 +29,7 @@ Content of the text files: Contain the different test instances for the COL data
 
 <χ>	Distribution cost
 
-<ρ>	Duirect transport cost
+<ρ>	Direct transport cost
 
 <a[1][1]> <a[1][2]> ... <a[1][q]>	Unit processing rate for the export flow at node 1 for all capacity levels
 : : :
@@ -43,6 +43,6 @@ Content of the text files: Contain the different test instances for the COL data
 
 
 NOTES:
-(1) The haversine distances are computed considering an sphere of radius 6371
-(2) Export flow refer to the flow that comes to a hub from non-hub nodes
-(3) Import flow refer to the flow that comes to a hub from other hubs
+(1) The haversine distances are computed considering a sphere of radius 6371
+(2) Export flow refers to the flow that comes to a hub from non-hub nodes
+(3) Import flow refers to the flow that comes to a hub from other hubs
