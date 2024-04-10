@@ -45,6 +45,6 @@ The following is a detailed description of the content of each text file.
 
 
 NOTES:
-(1) The haversine distances are computed considering a sphere of radius 6371
+(1) Haversine distances are computed considering a sphere of radius 6371
 (2) Export flow refers to the flow that comes to a hub from non-hub nodes
 (3) Import flow refers to the flow that comes to a hub from other hubs
