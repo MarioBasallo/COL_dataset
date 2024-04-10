@@ -1,6 +1,6 @@
 This repository contains the COL dataset introduced in Basallo-Triana M, Bravo-Bastidas J, Contreras I, Cordeau J, Vidal-Holgu´ın C, 2023 Intermodal hub network design with generalized capacity constraints and non-synchronized train–truck operations. Transportation Research Part B: Methodological.
 
-Content of the Excel file: Describes the COL dataset and contains the coordinates (latitude and longitude) of each node
+Excel file: Describes the COL dataset and contains the coordinates (latitude and longitude) of each node
 
 Content of the text files: Contain the different test instances for the COL dataset. The following is a detailed description of the content of each text file
 
