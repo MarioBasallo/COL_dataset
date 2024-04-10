@@ -13,7 +13,7 @@ The following is a detailed description of the content of each text file.
 <w[1][1]> <w[1][2]> ... <w[1][n]>    Haversine distance (normalized by 2000) from node 1 to all others
 : : :
 : : :
-<w[n][1]> <w[n][2]> ... <w[n][n]>    Haversine distance (divided by 2000) from node 1 to all others
+<w[n][1]> <w[n][2]> ... <w[n][n]>    Haversine distance (normalized by 2000) from node 1 to all others
 
 <w[1][1]> <w[1][2]> ... <w[1][n]>    Flow from node 1 to all others
 : : :
