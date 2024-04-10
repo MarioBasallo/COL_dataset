@@ -3,6 +3,7 @@ This repository contains the COL dataset introduced in Basallo-Triana M, Bravo-B
 The available files include:
 
 Excel file: Describes the COL dataset and contains the coordinates (latitude and longitude) of each node
+
 Text files: Contain the different test instances for the COL dataset. 
 
 The following is a detailed description of the content of each text file.
